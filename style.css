@@ -1,0 +1,14 @@
+h1 {
+    color: azure;
+    background-color: rgba(0, 68, 255, 0.717);
+}
+
+p {
+    color: rgb(127, 174, 255);
+    font-size: 25px;
+    background-color: beige;
+}
+
+#imagem {
+    height: 80%;
+}
